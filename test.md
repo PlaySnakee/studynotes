@@ -50,7 +50,7 @@
 
 ## 6.插入图片
 
- ![我的图片](studynotes/u=964699607,1511494873&fm=26&gp=0.jpg)
+ ![我的图片](https://github.com/PlaySnakee/studynotes/blob/main/IMG/u%3D964699607%2C1511494873%26fm%3D26%26gp%3D0.jpg)
  
 ## 7.超链接
 [My github](https://github.com/PlaySnakee)
