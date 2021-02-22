@@ -22,7 +22,7 @@ GIT基础设置
 	git config --global user.name '用户名'
 	
 	2.设置用户名邮箱
-	git config --global user.email myemail@qq.com 
+	git config --global user.email 'myemail@qq.com' 
 	
 	3.查看设置
 	git config --list
