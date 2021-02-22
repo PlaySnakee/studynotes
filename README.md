@@ -2,7 +2,7 @@
 关于Markdown的基本知识
 
 ## 1.标题
-//一级标题
+
 # 一级标题
 ## 二级标题
 ### 三级标题
@@ -11,7 +11,7 @@
 ###### 六级标题
 
 ## 2.代码块
-``` javay ```
+``` java```
 ## 3.字体
 	
 	**加粗**
@@ -27,7 +27,7 @@
 	- 目录2
 	1. 目录
 ## 6.插入图片
-	！[我的图片](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=964699607,1511494873&fm=26&gp=0.jpg)
+	！[我的图片](github](https://gi)
 ## 7.插入超链接
 	[我的github](https://github.com/playsnakee/nihao)
 ## 8.引用
